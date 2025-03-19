@@ -2,4 +2,4 @@
 # Challenge Amigo Secreto
 
 ---
-Este es el challenge Amigo Secreto realizado para Oracle ONE. Se trata de una aplicación web interactiva donde puedes ingresar los nombres de tus amigos y, mediante un sorteo aleatorio, descubrir quién será tu amigo secreto.
+Este es el challenge Amigo Secreto realizado para Oracle ONE. Se trata de una aplicación donde debes ingresar los nombres de tus amigos y descubrir quién será tu amigo secreto a traves de un sorteo.
